@@ -44,6 +44,15 @@ This project was created to practice and demonstrate practical skills in:
 * Exploratory Data Analysis (EDA)
 * Python Programming
 
-## Author
+# Team Members
 
-Shyam Sundar Gwala
+| S.No. | Team Member Name | Roll Number | Contribution |
+|------:|------------------|-------------|--------------|
+| 1 | Shyam Sundar Gwala | SU24BCA213 | Data Analysis & Project Documentation |
+| 2 | Nirmal Mahato | SU24BCA126 | Data Cleaning |
+| 3 | Sanket Bose | SU24BCA200| Data Visualization |
+| 4 | Prabeen Ghosh | SU24BCA140 | Data Analysis |
+| 5 | koushik Gorai | SU24BCA101 | Research & Documentation |
+
+
+### Thank You
